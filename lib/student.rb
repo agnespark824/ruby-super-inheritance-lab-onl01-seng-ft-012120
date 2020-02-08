@@ -1,7 +1,7 @@
 class Student
   attr_accessor
   
-  def initialize(hello)
+  def hello
     puts "Hey there! I'm so excited to learn stuff."
   end
   
